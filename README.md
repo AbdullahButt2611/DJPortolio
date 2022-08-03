@@ -17,6 +17,7 @@ Talking about the theme, following are the colors used in the project.
 Following Resources has been used for this project.
 - [Box Icons](https://boxicons.com/usage#import-css) For Importing icons intothe project.
 - [Google Fonts](https://fonts.google.com/specimen/Poppins?query=pop) for importing the fonts called **Poppins** into the project.
+- [Images](/img) can be downloaded from the github.
 <br><br>
 
 ## Demo
