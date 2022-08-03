@@ -2,7 +2,7 @@
 This is a simple HTML, CSS, JS based portfolio with responsive embedded code.
 
 <br><br>
-Talking about the theme, follwoing are the colors used in the project.
+Talking about the theme, following are the colors used in the project.
 - First Color `#3E0E12`
 - First Color Dark `#2F0A0D`
 - Text Color `#524748`
