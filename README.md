@@ -1,5 +1,13 @@
 # DJPortolio
 This is a simple HTML, CSS, JS based portfolio with responsive embedded code.
+
+<br><br>
+Talking about the theme, follwoing are the colors used in the project.
+- First Color `#3E0E12`
+- First Color Dark `#2F0A0D`
+- Text Color `#524748`
+- Text Color Light `#7B6F71`
+- Text Color Lighten `#FBF9F9`
 <br><br>
 
 ## Features
@@ -21,6 +29,10 @@ Following Resources has been used for this project.
 <br><br>
 
 ## Technology Stack
+Following technologies are in use to make this protfolio work completely.
+- HTML
+- CSS
+- JavaScript
 <br><br>
 
 ## Advancement
