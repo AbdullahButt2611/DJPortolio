@@ -1,5 +1,5 @@
-# DJPortolio
-This is a simple HTML, CSS, JS based portfolio with responsive embedded code.
+<h1 align = "center">DJ Portfolio</h1>
+This is a simple HTML, CSS, JS based portfolio with responsive embedded code. With a toggling navbar and changing theme side, this portfolio provides a complete decent website portfolio look that market demands.
 
 <br><br>
 Talking about the theme, following are the colors used in the project.
@@ -11,6 +11,9 @@ Talking about the theme, following are the colors used in the project.
 <br><br>
 
 ## Features
+Follwing are some of the Interesting Features of this website.
+- The navigation bar will change its background after some scrolling depending on the background.
+- The navlinks will be provided a path to show that which section is curently active on the screen
 <br><br>
 
 ## Resources
