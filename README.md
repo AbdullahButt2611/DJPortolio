@@ -1,7 +1,10 @@
+<p align = "center">
+  <img src = "/img/Logo.png" width = "150">
+</p>
 <h1 align = "center">DJ Portfolio</h1>
 This is a simple HTML, CSS, JS based portfolio with responsive embedded code. With a toggling navbar and changing theme side, this portfolio provides a complete decent website portfolio look that market demands.
 <br>
-The user simply have to visit this website to access all the features. Once the url is accepted, the web will appear. Firstly the home sction is displayed and in it, the user wil first encounter a greeting message and blacked navigation bar. Once the user starts to scrol, the nav will change its color to white as the respective background color is changed to white.
+The user simply have to visit this website to access all the features. Once the url is accepted, the web will appear. Firstly the home sction is displayed and in it, the user wil first encounter a greeting message and blacked navigation bar. Once the user starts to scrol, the nav will change its color to white as the respective background color is changed to white. The user will also be provided the facility to download the client's CV in order to hire her. The **About** section is going to help the viewser understand something about the client and the technical information will also be displayed here. In the **Qualification** section ,the sighees will be elightened about the qualification and some of the best resurces that the client used to enhance her knowldge and suprredom. 
 
 <br><br>
 Talking about the theme, following are the colors used in the project.
