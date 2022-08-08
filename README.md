@@ -2,11 +2,13 @@
   <img src = "/img/Logo.png" width = "150">
 </p>
 <h1 align = "center">DJ Portfolio</h1>
+<p align = "justify">
 This is a simple HTML, CSS, JS based portfolio with responsive embedded code. With a toggling navbar and changing theme side, this portfolio provides a complete decent website portfolio look that market demands.
 <br>
-The user simply have to visit this website to access all the features. Once the url is accepted, the web will appear. Firstly the home sction is displayed and in it, the user wil first encounter a greeting message and blacked navigation bar. Once the user starts to scrol, the nav will change its color to white as the respective background color is changed to white. The user will also be provided the facility to download the client's CV in order to hire her. The **About** section is going to help the viewser understand something about the client and the technical information will also be displayed here. In the **Qualification** section ,the sighees will be elightened about the qualification and some of the best resurces that the client used to enhance her knowldge and suprredom. 
-
+The user simply have to visit this website to access all the features. Once the url is accepted, the web will appear. Firstly the home sction is displayed and in it, the user wil first encounter a greeting message and blacked navigation bar. Once the user starts to scrol, the nav will change its color to white as the respective background color is changed to white. The user will also be provided the facility to download the client's CV in order to hire her. The <strong>About</strong> section is going to help the viewser understand something about the client and the technical information will also be displayed here. In the <strong>Qualification</strong> section ,the sighees will be elightened about the qualification and some of the best resurces that the client used to enhance her knowldge and suprredom. In the next section, i.e. <strong>Project In Mind</strong>. Here the user will be provided a link to the blog website and the official websit of <strong>DJ</strong> (Client) where the user can check the user's projects details ad also if the user want, then the user can also access the hire my client on the basis of the client's abilities. Moving on the next <strong>Portfolio</strong> section ,here the user will be provided with a list of latest projects that the client has worked on. The list will be a sort of categorized list where a smart animation is added to separate each category from the other. The user has to select the category from the list of categories given at the satrt of this section and on clicking the user will be provided with all the projects related to this category.
+</p>
 <br><br>
+
 Talking about the theme, following are the colors used in the project.
 - First Color `#3E0E12`
 - First Color Dark `#2F0A0D`
@@ -18,7 +20,8 @@ Talking about the theme, following are the colors used in the project.
 ## Features
 Follwing are some of the Interesting Features of this website.
 - The navigation bar will change its background after some scrolling depending on the background.
-- The navlinks will be provided a path to show that which section is curently active on the screen
+- The navlinks will be provided a path to show that which section is curently active on the screen.
+- The mixitup library has bee used to categorize the projects of the client and to provide the amazing interface for the users.
 <br><br>
 
 ## Resources
@@ -26,6 +29,7 @@ Following Resources has been used for this project.
 - [Box Icons](https://boxicons.com/usage#import-css) For Importing icons intothe project.
 - [Google Fonts](https://fonts.google.com/specimen/Poppins?query=pop) for importing the fonts called **Poppins** into the project.
 - [Images](/img) can be downloaded from the github.
+- [MixItUp](https://www.kunkalabs.com/mixitup/) Library used for categorizing the projects.
 <br><br>
 
 ## Demo
@@ -45,6 +49,9 @@ Following technologies are in use to make this protfolio work completely.
 <br><br>
 
 ## Advancement
+<br><br>
+
+## Deployement Details
 <br><br>
 
 ## Developer
