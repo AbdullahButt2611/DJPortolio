@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="img/Logo.png" type="image/x-icon">
 
+    <!-- =====================      Swiper JS      ============================== -->
+    <link rel="stylesheet" href="swiper-bundle.min.css">
+
+
     <!-- =====================      Box Icons       ============================== -->
     <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
     
@@ -328,11 +332,100 @@
         </section>
 
         <!-- =======        Testimonial        =========== -->
+        <section class="testimonial section bd-container">
+            <span class="section-subtitle">My Client Sayings</span>
+            <h2 class="section-title">Testimonial</h2>
+            <!-- swiper -->
+            <div class="testimonial__container swiper">
+                <!-- swiper-wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- swiper-slide
+                    swiper-slide
+                    swiper-slide -->
+                    <div class="testimonial__content swiper-slide">
+                        <img src="img/testimonial1.jpg" alt="" class="testimonial__img">
+                        <h3 class="testimonial__title">Ahmad Rao</h3>
+                        <span class="testimonial__client">Client</span>
+                        <p class="testimonial__description">Khadija does a very good service, offers the best deals and did a great job</p>
+                        
+                    </div>
 
+                    <div class="testimonial__content swiper-slide">
+                        <img src="img/testimonial2.jpg" alt="" class="testimonial__img">
+                        <h3 class="testimonial__title">Esha Tanveer</h3>
+                        <span class="testimonial__client">Client</span>
+                        <p class="testimonial__description">Khadija does a very good service, offers the best deals and did a great job</p>
 
+                    </div>
+
+                    <div class="testimonial__content swiper-slide">
+                        <img src="img/testimonial3.jpg" alt="" class="testimonial__img">
+                        <h3 class="testimonial__title">Ehsan Ahmad</h3>
+                        <span class="testimonial__client">Client</span>
+                        <p class="testimonial__description">Khadija does a very good service, offers the best deals and did a great job</p>
+
+                    </div>
+                </div>
+                <div class="pageDiv">
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section>
 
         <!-- =======        Contact Me        =========== -->
+        <section class="contact section bd-container" id="contact">
+            <span class="section-subtitle">For Projects</span>
+            <h2 class="section-title">Contact Me</h2>
 
+            <div class="contact__container bd-grid">
+                <div class="contact__content bd-grid">
+                    <div class="contact__box">
+                        <i class='bx bx-home contact__icon'></i>
+                        <h3 class="contact__title">Location</h3>
+                        <span class="contact__description">Singhpura, Lahore</span>
+                    </div>
+
+                    <div class="contact__box">
+                        <i class='bx bx-phone contact__icon'></i>
+                        <h3 class="contact__title">Phone</h3>
+                        <span class="contact__description">+92 336 4036192</span>
+                    </div>
+
+                    <div class="contact__box">
+                        <i class='bx bx-envelope contact__icon'></i>
+                        <h3 class="contact__title">Gmail</h3>
+                        <span class="contact__description">khadia@gmail.com</span>
+                    </div>
+
+                    <div class="contact__box">
+                        <i class='bx bx-chat contact__icon'></i>
+                        <h3 class="contact__title">Chat</h3>
+                        <div>
+                            <a href="#" class="contact__social"><i class='bx bxl-whatsapp-square' ></i></a>
+                            <a href="#" class="contact__social"><i class='bx bxl-telegram' ></i></a>
+                            <a href="#" class="contact__social"><i class='bx bxl-messenger' ></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <form action="#" class="contact__form">
+                    <div class="contact__inputs">
+                        <input type="text" placeholder="Name" class="contact__input">
+                        <input type="email" placeholder="Email" class="contact__input">
+                    </div>
+
+                    <div class="contact__inputs">
+                        <input type="text" placeholder="Project" class="contact__input">
+                        <input type="number" placeholder="Number" class="contact__input">
+                    </div>
+
+                    <textarea name="" id="" cols="" rows="7" placeholder="Message" class="contact__input"></textarea>
+
+                    <input type="submit" value="Send Messge" class="button contact__button">
+                </form>
+            </div>
+        </section>    
 
 
 
@@ -346,6 +439,7 @@
     <script src="mixitup.min.js"></script>
 
     <!-- =====================      Swiper JS       ============================== -->
+    <script src="swiper-bundle.min.js"></script>
 
     <!-- =====================      GSAP JS       ============================== -->
 

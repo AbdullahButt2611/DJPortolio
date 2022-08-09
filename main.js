@@ -98,6 +98,21 @@ linkPortfolio.forEach(l => l.addEventListener('click', activePortfolio));
 
 
 /*===== SWIPER CAROUSEL =====*/ 
+const swiper = new Swiper('.testimonial__container', {
+
+    spaceBetween: 16,
+
+    loop: true,
+
+    grabCursor: true,
+
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+
+
+  });
 
 
 /*===== GSAP ANIMATION =====*/

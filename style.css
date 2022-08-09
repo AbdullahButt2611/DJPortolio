@@ -555,9 +555,75 @@ img{
 
 
 /*===== TESTIMONIAL =====*/
+.testimonial__container{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.testimonial__content
+{
+    display: grid;
+    background-color: var(--first-color-dark);
+    color: var(--first-color-lighten);
+    border-radius: 0.5rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(47,10,13,0.25);
+}
+
+.testimonial__img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    justify-self: center;
+    margin-bottom: var(--mb-1);
+}
+
+.testimonial__client{
+    font-size: var(--small-font-size);
+    color: var(--first-color-light);
+    margin-bottom: var(--mb-2);
+}
+
+.pageDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: var(--mb-3);
+}
+
+.swiper-pagination{
+    position: initial;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet{
+    width: 12px; 
+    height: 12px; 
+    margin: 2px;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet-active{
+    background-color: var(--first-color);
+}
+
+
 
 
 /*===== CONTACTME =====*/
+.contact__container{
+    row-gap: 2.5rem;
+}
+
+.contact__content{
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.contact__box{
+    background-color: #FFF;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    text-align: center;
+}
 
 
 /*===== FOOTER =====*/
