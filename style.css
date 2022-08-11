@@ -820,10 +820,42 @@ img{
         padding: 4.5rem 0;
     }
 
-    .portfolio__data{
+    .project__data{
         display: flex;
         justify-content: space-evenly;
         align-items: center;
+        flex-direction: row;
+    }
+
+    .project__icon, .project__title, .project__description{
+        margin-bottom: 0;
+    }
+
+    .project__icon{
+        font-size: 6rem;
+    }
+
+    .project__title{
+        font-size: 2.5rem;
+    }
+
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .bd-container{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .qualification__container{
+        column-gap: 6rem;
+    }
+
+    .home__img img{
+        width: 350px;
     }
 }
 
